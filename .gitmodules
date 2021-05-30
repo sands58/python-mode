@@ -39,11 +39,11 @@
     shallow = true
 [submodule "submodules/astroid"]
 	path = submodules/astroid
-	url = https://github.com.cnpmjs.org//PyCQA/astroid
+	url = https://github.com.cnpmjs.org/PyCQA/astroid
     shallow = true
 [submodule "submodules/pylama"]
 	path = submodules/pylama
-	url = https://github.com.cnpmjs.org//klen/pylama
+	url = https://github.com.cnpmjs.org/klen/pylama
     shallow = true
 [submodule "submodules/toml"]
 	path = submodules/toml
